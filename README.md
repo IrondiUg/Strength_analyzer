@@ -18,3 +18,7 @@ This project provides a password strength checker that evaluates passwords based
 - FAIR: 30 – 59
 - GOOD: 60 – 79
 - STRONG: 80 – 100
+
+## Video Demo
+https://github.com/user-attachments/assets/2ced1d32-2178-4db2-a2bf-0e7c7027ff16
+
