@@ -12,3 +12,9 @@ This project provides a password strength checker that evaluates passwords based
   - Special characters
 - Provides actionable recommendations to improve weak passwords.
 - Suggests using passphrases or avoiding predictable patterns.
+
+## Strength Classification
+- WEAK: < 30
+- FAIR: 30 – 59
+- GOOD: 60 – 79
+- STRONG: 80 – 100
