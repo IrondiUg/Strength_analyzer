@@ -1,3 +1,5 @@
+![Screenshot_20250813_175402_Chrome](https://github.com/user-attachments/assets/66ff326f-18b1-48b7-aa6b-f01fa63886cb)
+
 ## Project Overview
 This project provides a password strength checker that evaluates passwords based on multiple complexity criteria. It not only calculates a strength score but also gives clear, practical suggestions for improving weak or fair passwords.
 
