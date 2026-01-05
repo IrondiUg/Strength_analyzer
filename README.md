@@ -27,7 +27,7 @@ This project provides a password strength checker that evaluates passwords based
   git clone https://github.com/IrondiUg/Strength_analyzer
   cd Strength_analyzer
   ```
-- Run the sniffer
+- Run the analyser
     ```
     python complexity.py
   ```
