@@ -21,6 +21,17 @@ This project provides a password strength checker that evaluates passwords based
 - GOOD: 60 – 79
 - STRONG: 80 – 100
 
+## How to Run
+- Clone the repository
+  ```
+  git clone https://github.com/IrondiUg/Strength_analyzer
+  cd Strength_analyzer
+  ```
+- Run the sniffer
+    ```
+    python complexity.py
+  ```
+
 ## Video Demo
 https://github.com/user-attachments/assets/2ced1d32-2178-4db2-a2bf-0e7c7027ff16
 
